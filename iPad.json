@@ -1,0 +1,6 @@
+{
+    "ProductName":"iPad Air",
+    "Color":["#78767a","#90b4c3","#e8d2cf","#bcbcd3","#e6e1db"],
+    "storgr":{"64GB":0,"256GB":5000},                          
+    "Conection":{"wifi":0,"wifi+行動網路":5000}
+}
